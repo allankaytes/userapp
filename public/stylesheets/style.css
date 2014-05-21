@@ -6,3 +6,46 @@ body {
 a {
   color: #00B7FF;
 }
+
+/*Form*/
+
+input{
+  margin-right: 5px;
+  background-color: #f2f2f2;
+  border:1px solid #bdbdbd;
+  border-radius: 5px;
+}
+
+input:focus, input:hover{
+  background-color:#ffffff;
+  border: 1px solid #b1e1e4;
+  border-radius: 5px;
+}
+
+button#btnSubmit{
+  border:1px solid #006633;
+  background-color: #009966;
+  color: #ffffff;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+button#btnSubmit:hover{
+  border:1px solid #006633;
+  background-color: #00cc33;
+  color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
